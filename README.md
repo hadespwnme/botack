@@ -41,5 +41,5 @@ Usage: ```python3 botack.py [option]```
 You will get message to input code from telegram. Input the code you get from telegram. The message like in image below.
 
 <p align="center">
-  <img src="img/require.png" alt="Botack Code Telegram">
+  <img src="img/require.jpg" alt="Botack Code Telegram">
 </p>
