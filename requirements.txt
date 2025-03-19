@@ -1,0 +1,5 @@
+argparse
+requests
+asyncio
+telethon
+python-dotenv
