@@ -31,9 +31,16 @@ pip install -r requirements.txt
   2. **api_hash**
   3. **phone_number**
 
+  **this example .env**:
+  ```bash
+  TELEGRAM_API_ID=123456
+  TELEGRAM_API_HASH=1a2b3c4d123456780909876262
+  TELEGRAM_PHONE=+6281234567800
+  ```
+
 ### 3️⃣ Usage 
 This tool have two option.
-1. **forward**: Forward message from another bot your Telegram.
+1. **forward**: Forward message from another bot to your Telegram.
 2. **attack**: Send messages to target bot as you wish.
 
 Usage: ```python3 botack.py [option]```
