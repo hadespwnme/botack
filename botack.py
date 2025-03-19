@@ -36,7 +36,7 @@ class formatHelp(argparse.RawTextHelpFormatter):
     def format_help(self):
         return """\
 Usage:
-  hades [command]
+  botack [command]
 
 Available Commands:
   forward     Forwards all messages from bot
