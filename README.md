@@ -2,7 +2,7 @@
 Botack is a powerfull tool for get message from another Telegram Bot.
 
 <p align="center">
-  <img src="img/saitama.png" alt="Botack">
+  <img src="img/saitama.png" alt="Botack" width="300">
 </p>
 
 ## ⚠ Disclaimer
