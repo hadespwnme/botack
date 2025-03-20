@@ -24,7 +24,7 @@ cd botack
 pip install -r requirements.txt
 ```
 ### 2️⃣ Telegram Api Credential 
-- Visit [this](my.telegram.org/apps) and log in with your phone number.
+- Visit [this](https://my.telegram.org/apps) and log in with your phone number.
 - Create a new application
 - Copy this following to .env:
   1. **api_id**
